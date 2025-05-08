@@ -10,9 +10,10 @@ ComposAR blends virtual piano keys with a real-world surface, allowing users to:
 - **Compose Mode**: Play and record music in real time, automatically transcribing it to staff notation.
 - **Export**: Save and export your musical pieces as sheet music or MusicXML.
 
-## 📽️ Demo Video
+## 📽️ Demo Videos
 
-[![Watch the video]()](https://IniabasiEkpenyong/IniabasiEkpenyong/ComposAR/main/LearnMode.mp4)
+[![Learn Mode]()](https://IniabasiEkpenyong/IniabasiEkpenyong/ComposAR/main/LearnMode.mp4)
+[![Compose Mode]()](https://IniabasiEkpenyong/IniabasiEkpenyong/ComposAR/main/ComposeMode.mp4)
 
 ## 🛠️ Features
 
